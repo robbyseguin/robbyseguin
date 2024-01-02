@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDA4YTRxcjRsdHBzeHIxdDFvZ2w4bzhjOTh3cHkyMDIyZmo5bXA3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbyseguin&label=Profile%20views&color=0e75b6&style=flat" alt="robbyseguin" /> </p>
 
-- 🔭 I’m currently working on **Rogue Like**
+- 🔭 I’m currently working on **A Rogue Like**
 
 - 🌱 I’m currently learning **Advanced Shader Graphs**
 
