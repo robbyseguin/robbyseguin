@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Robby Seguin</h1>
-<h3 align="center">A passionate Gameplay Programmer and QA Tester</h3>
+<h3 align="center">A passionate Gameplay Programmer and Audio Programming</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDA4YTRxcjRsdHBzeHIxdDFvZ2w4bzhjOTh3cHkyMDIyZmo5bXA3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbyseguin&label=Profile%20views&color=0e75b6&style=flat" alt="robbyseguin" /> </p>
 
-- 🔭 I’m currently working on **HLSL Shading**
+- 🔭 I’m currently working on **Wwise audio programming**
 
-- 🌱 I’m currently learning **Advanced Shader Graphs**
+- 🌱 I’m currently learning **Wwise**
 
-- 👯 I’m looking to collaborate on **a new game!**
+- 👯 I’m looking to collaborate on **a new project!**
 
-- 🤝 I’m looking for help with **A job as a QA Tester or Gameplay Programmer**
+- 🤝 I’m looking for help with **A job as Tools programmer or Gameplay Programmer**
 
 - 👨‍💻 All of my projects are available at [https://www.robbyseguin.com/](https://www.robbyseguin.com/)
 
