@@ -34,6 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robbyseguin&show_icons=true&locale=en&layout=compact" alt="robbyseguin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robbyseguin&show_icons=true&locale=en" alt="robbyseguin" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robbyseguin&" alt="robbyseguin" /></p>
