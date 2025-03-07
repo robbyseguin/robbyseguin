@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on **C++ Game ENgine**
 
-- 🌱 I’m currently learning **Game ENgine Architecture**
+- 🌱 I’m currently learning **Game Engine Architecture**
 
 - 👯 I’m looking to collaborate on **a new project!**
 
 - 🤝 I’m looking for help with **A job as Tools programmer or Gameplay Programmer**
-
-- 👨‍💻 All of my projects are available at [https://www.robbyseguin.com/](https://www.robbyseguin.com/)
 
 - 💬 Ask me about **the games i enjoy!**
 
